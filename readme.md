@@ -1,5 +1,5 @@
-<h1 style="text-align: center">Hello World!</h1>
-<h2 style="text-align: center">FullStack Developer</h2>
+<h1 style="text-align: center;">Hello World!</h1>
+<h2 style="text-align: center;">FullStack Developer</h2>
 <p>I'm a JS, PHP and Linux lover</p>
 <p>
   <img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="" style="width:50px; height: 50px;">
