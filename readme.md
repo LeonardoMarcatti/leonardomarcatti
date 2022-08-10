@@ -22,7 +22,7 @@
   <a href="https://owncloud.com/"> <img src="https://owncloud.com/wp-content/uploads/2020/07/owncloud-trademark.png" width="40" height="40"></a>
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"></a>
   <a href="https://proxmox.com/en/"><img src="https://logovectorseek.com/wp-content/uploads/2021/10/proxmox-server-solutions-gmbh-logo-vector.png" width="80" height="40"></a>
-  <a href="https://www.pfsense.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/1200px-PfSense_logo.png" width="40" height="40"></a>
+  <a href="https://www.pfsense.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/1200px-PfSense_logo.png" width="80" height="40"></a>
   <a href="https://www.samba.org/"><img src="https://treinamentos.unirede.net/wp-content/uploads/sites/2/2017/05/samba-treinamento-square.png" width="40" height="40"></a>
   <a href="https://www.microsoft.com/pt-br/windows-server"><img src="https://penseemti.com.br/wp-content/uploads/2016/02/windows-server-logo.png" width="40" height="40"></a>
   <a href="https://www.linux.org/pages/download/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"></a>
