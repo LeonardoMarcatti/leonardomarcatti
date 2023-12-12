@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello World!:earth_americas:</h1>
+  <h1>Hello World!</h1>
   <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="50%" crossorigin="anonymous"loop=infinite/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/leonardomarcattidasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
