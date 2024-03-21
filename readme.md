@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello World!</h1>
-  <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="50%" crossorigin="anonymous"loop=infinite/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*5zbjAY6BL_u-OXF0_ZAPtw.jpeg" style="width: 50%"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/leonardomarcattidasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="skype:leonardo.marcatti?chat"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/></a>
@@ -8,13 +8,13 @@
   </div>
 </div>
 <h2 style="text-align: center;">FullStack Developer | Network Enthusiast </h2>
-<p>I'm a JS, PHP and Linux lover</p>
+<p>I'm a React, Laravel and Linux lover</p>
 <div>
   <a href="https://www.w3schools.com/html/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40"></a>
   <a href="https://www.w3schools.com/css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"></a>
   <a href="https://www.php.net/"><img src="https://user-images.githubusercontent.com/29094440/176947095-e5985b18-840f-4d6a-81b9-ecce7f86ebd9.png" width="40" height="40"></a>
     <a href="https://www.codeigniter.com/user_guide/intro/index.html"><img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40" height="40"></a>
-  <a href="https://laravel.com/docs/9.x"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"></a>
+  <a href="https://laravel.com/docs/10.x"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" width="40" height="40"></a>
   <a href="https://www.javascript.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"></a>
   <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"></a>
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"> </a>
