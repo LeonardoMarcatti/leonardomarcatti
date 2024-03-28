@@ -4,7 +4,7 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/leonardomarcattidasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="skype:leonardo.marcatti?chat"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/></a>
-    <a href="https://wa.me/+5531994061836"><img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/></a>
+    <a href="https://wa.me/+5545999162748"><img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/></a>
   </div>
 </div>
 <h2 style="text-align: center;">FullStack Developer | Network Enthusiast </h2>
