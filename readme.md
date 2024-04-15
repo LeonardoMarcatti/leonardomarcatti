@@ -30,3 +30,11 @@
   <a href="https://www.linux.org/pages/download/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"></a>
   <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" width="40" height="40"></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardomarcati/leonardomarcati/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leonardomarcati/leonardomarcati/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leonardomarcati/leonardomarcati/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+<br><br>
